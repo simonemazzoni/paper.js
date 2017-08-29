@@ -3,3 +3,4 @@
 /dist/*/
 /dist/*.min.js
 /dist/paperjs.zip
+/npm-debug.log
